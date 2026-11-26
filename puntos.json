@@ -1,0 +1,50 @@
+[
+  {
+    "id": "entrada",
+    "titulo": "Entrada",
+    "descripcion": "Bienvenido al cafetal. Aquí inicia el recorrido y se recibe a los visitantes.",
+    "yaw": 0.0,
+    "pitch": 8.0,
+    "posicion": {
+      "x": 0.0,
+      "y": 2.435,
+      "z": -5.942
+    }
+  },
+  {
+    "id": "mostrador",
+    "titulo": "Mostrador",
+    "descripcion": "Aquí se prepara y se vende el café de la finca: espresso o filtrado y granos tostados.",
+    "yaw": 60.0,
+    "pitch": 5.0,
+    "posicion": {
+      "x": 5.178,
+      "y": 2.124,
+      "z": -2.986
+    }
+  },
+  {
+    "id": "mirador",
+    "titulo": "Mirador",
+    "descripcion": "Desde este punto se aprecia el valle y las plantaciones de café al amanecer.",
+    "yaw": -75.0,
+    "pitch": 15.0,
+    "posicion": {
+      "x": -5.597,
+      "y": 3.156,
+      "z": -1.503
+    }
+  },
+  {
+    "id": "cafetal",
+    "titulo": "Cafetal",
+    "descripcion": "Recorrido guiado entre las plantas de café y explicación del proceso de cosecha.",
+    "yaw": 150.0,
+    "pitch": 0.0,
+    "posicion": {
+      "x": 2.997,
+      "y": 1.6,
+      "z": 5.198
+    }
+  }
+]

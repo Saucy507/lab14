@@ -1,0 +1,5 @@
+id,titulo,descripcion,px,py
+entrada,Entrada,Bienvenido al cafetal. Aquí inicia el recorrido y se recibe a los visitantes.,2048,933
+mostrador,Mostrador,Aquí se prepara y se vende el café de la finca: espresso o filtrado y granos tostados.,2731,967
+mirador,Mirador,Desde este punto se aprecia el valle y las plantaciones de café al amanecer.,1195,853
+cafetal,Cafetal,Recorrido guiado entre las plantas de café y explicación del proceso de cosecha.,3755,1024
